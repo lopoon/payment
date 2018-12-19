@@ -1,0 +1,9 @@
+# package directories
+node_modules
+db_data
+
+# secret directories
+.ssh
+.env
+.gittoken
+
